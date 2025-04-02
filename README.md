@@ -40,6 +40,7 @@ A beautiful & simple Flutter app for real-time weather forecasting.
 | [`dio`](https://pub.dev/packages/dio) | HTTP requests |
 | [`firebase_messaging`](https://pub.dev/packages/firebase_messaging) | Push notifications |
 | [`equatable`](https://pub.dev/packages/equatable) | Value comparisons |
+| [`shorebird`](https://pub.dev/packages/shorebird) | Value Update System |
 
 ### Dev Dependencies:
 
