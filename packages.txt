@@ -1,0 +1,10 @@
+flutter_animate
+intl
+flutter_riverpod
+google_fonts
+shared_preferences
+json_annotation
+freezed_annotation
+geolocator
+geocoding
+lottie
